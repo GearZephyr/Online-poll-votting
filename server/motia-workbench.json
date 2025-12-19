@@ -1,0 +1,33 @@
+[
+  {
+    "id": "hello-world-flow",
+    "config": {
+      "src/hello/process-greeting.step.ts": {
+        "x": 409,
+        "y": 44
+      },
+      "src/hello/hello-api.step.ts": {
+        "x": 0,
+        "y": 0,
+        "sourceHandlePosition": "right"
+      }
+    }
+  },
+  {
+    "id": "vote",
+    "config": {
+      "src\\vote.step.ts": {
+        "x": 0,
+        "y": 0
+      },
+      "src\\verify.step.ts": {
+        "x": 12,
+        "y": 151
+      },
+      "src\\create-poll.step.ts": {
+        "x": 43,
+        "y": 234
+      }
+    }
+  }
+]
